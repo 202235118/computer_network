@@ -1,1 +1,1 @@
-# computer_network
+This is an internet calculator program using Java.
